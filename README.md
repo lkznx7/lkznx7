@@ -1,104 +1,73 @@
-## Hey 👋, I'm Lucas Moreira!  
-  
 
-<a href="https://github.com/lkznx7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-brandao006?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Http__lk" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">👋 Olá, eu sou o Lucas (LK)</h1>
+<p align="center">Desenvolvedor Java • Fundador da Code Web • Apaixonado por tecnologia</p>
 
+---
 
+## 🚀 Sobre mim
 
-### Glad to see you here!  
-Glad to see you here!
-I’m a creative technologist passionate about blending design, code, and smart systems. With a background in both development and visual design, I turn complex ideas into elegant, functional solutions — from intuitive user interfaces to powerful embedded systems.
+Sou desenvolvedor Java com foco em criar soluções completas para empresas, desde landing pages até sistemas personalizados.  
+Atualmente lidero a Code Web, onde ajudamos pequenas e médias empresas a ganharem presença digital com qualidade e preço justo.
 
-Currently exploring the potential of IoT and automation using ESP32, I also enjoy creating projects that connect the physical and digital worlds. Whether it’s a smart home setup or a responsive web dashboard, I’m always building, testing, and learning something new.
+- 💼 Fundador da Code Web
+- 📚 Estudando Estrutura de Dados, Spring Boot e Integrações com Front-end
+- 🎯 Foco atual: Java,Python, HTML/CSS, MySQL e projetos práticos
 
-  
-  
+---
 
-<br/>  
+## 🛠️ Tecnologias
 
+### 💻 Front-end
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron)
 
-## Rapidfire  
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
-- 🛠️ I’m currently working on a real-time IoT dashboard using ESP32 and ThingSpeak.  
-  
+### 🛠️ DevOps & Banco de Dados
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
 
-- 📡 Exploring MQTT, APIs, and edge computing for smarter automation  
-  
-
-- 💬 Ask me about building interfaces that talk to hardware (or vice-versa)  
-  
-
-- 🌙 Fun fact: I love late-night coding sprints with chill music and crazy ideas  
-
-
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-</div>  
-
-<br/>  
+### 🔌 Hardware e CMS
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%" height="30%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=lkznx7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## 📈 GitHub Stats
 
-</td><td valign="top" width="70%">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkznx7&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+## 🌐 Contato
 
-<br/>  
+- 📸 Instagram: [@lkdev_](https://instagram.com/lkdev_)
+- 📧 E-mail: lucas@codeweb.com
+- 🌍 Site da empresa: [em andamento]()
 
-  
+---
 
-<br/>  
+## 💬 Frase que me representa
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
+> “Código é como humor. Quando você tem que explicar, não é tão bom.” – Cory House
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
