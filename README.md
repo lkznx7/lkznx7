@@ -52,8 +52,8 @@ Atualmente lidero a Code Web, onde ajudamos pequenas e médias empresas a ganhar
 ## 📈 GitHub Stats
 
 <div align="center">
+
 [![Estatísticas do LK](https://github-readme-stats.vercel.app/api?username=lkznx7&show_icons=true)](https://github.com/lkznx7)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lkznx7&layout=compact)](https://github.com/lkznx7)
 
 </div>
 
