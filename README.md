@@ -52,8 +52,9 @@ Atualmente lidero a Code Web, onde ajudamos pequenas e médias empresas a ganhar
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&langs_count=7&theme=dracula"/>
+[![Estatísticas do LK](https://github-readme-stats.vercel.app/api?username=lkznx7&show_icons=true)](https://github.com/lkznx7)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lkznx7&layout=compact)](https://github.com/lkznx7)
+
 </div>
 
 ---
