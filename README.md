@@ -61,7 +61,7 @@ Atualmente lidero a Code Web, onde ajudamos pequenas e médias empresas a ganhar
 ## 🌐 Contato
 
 - 📸 Instagram: [@lkdev_](https://instagram.com/lkdev_)
-- 📧 E-mail: lucas@codeweb.com
+- 📧 E-mail: lkznx7@gmail.com
 - 🌍 Site da empresa: [em andamento]()
 
 ---
