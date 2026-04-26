@@ -1,24 +1,88 @@
-# 💫 About Me:
-I'm a 19-year-old Full-Stack Developer and Founder based in Brasília. Specializing in Java and Spring Boot, I am currently focused on building scalable SaaS products and leading high-impact technology projects.
+<h1 align="center">Lucas Moreira Brandão</h1>
+<h3 align="center">Full Stack Developer · Java & Spring Boot · Next.js</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/lucasmoreirabrandao">LinkedIn</a> ·
+  <a href="http://lkdev.com.br">Portfolio</a> ·
+  <a href="mailto:lkznx7@gmail.com">lkznx7@gmail.com</a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lkdev_) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lkznx7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lkznx7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lkznx7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lkznx7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Full Stack Developer with a backend focus, working as a freelancer for 2+ years building scalable applications and REST APIs. Specialized in **Java with Spring Boot** on the backend and **Next.js + TypeScript** on the frontend, always following best practices like Clean Code, layered architecture, and scalability-driven code organization.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently studying **Software Engineering** at Universidade Católica de Brasília, with a technical background in Web Development from Senac (1000h).
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lkznx7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+**Other languages & tools**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+---
+
+## What I build
+
+- Robust **REST APIs** with Java and Spring Boot
+- Complete **Full Stack applications** with frontend/backend integration
+- **Data modeling and management** with PostgreSQL, MySQL, and SQLite
+- **System and service integrations** across different platforms
+- Clean, scalable code using **Clean Code** principles and **layered architecture**
+
+---
+
+## Experience
+
+**Freelance Full Stack Developer** · 2023 – Present  
+Building complete web applications, REST APIs, and system integrations for various clients.
+
+**Developer · Profissões do Futuro Project** (NGO + Ministry of Science and Technology) · 2026 – Present  
+Developing and maintaining software solutions for educational projects.
+
+---
+
+## Education
+
+🎓 **Software Engineering** — Universidade Católica de Brasília (2026–2030)  
+📋 **Web Development Technical Program** — Senac (1000h)  
+📋 **Front-End Track** — Senac (264h)  
+📋 **Java Full Stack Track** — Alura (300h+)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lkznx7&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkznx7&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Open to remote, hybrid, or on-site opportunities · Brasília – DF, Brazil
+</p>
